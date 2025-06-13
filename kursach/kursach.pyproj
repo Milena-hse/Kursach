@@ -27,7 +27,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="bot.py">
+    <Compile Include="module1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
