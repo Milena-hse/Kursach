@@ -303,7 +303,6 @@ def title(message):
     )
     bot.reply_to(message, "Выбери дату:", reply_markup=calendar_keyboard)
 
-
 # Обработка выбора даты
 @bot.callback_query_handler(func=lambda call: call.data.startswith("calendar"))
 def handle_calendar(call):
