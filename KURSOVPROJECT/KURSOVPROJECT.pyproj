@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>681c7725-52b2-4d37-a320-9f0b08c9b77c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>KURSOVPROJECT.py</StartupFile>
+    <StartupFile>bot.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="KURSOVPROJECT.py" />
+    <Compile Include="bot.py" />
     <Compile Include="test_1.py">
       <SubType>Code</SubType>
     </Compile>
